@@ -11,3 +11,8 @@ Shellcheck is a lifesaver:
 ## Why doesn't my YAML work?
 YAML Lint is also a lifesaver:
 * [YAML Lint](https://www.yamllint.com/)
+
+## Firefox Addons
+* FoxyProxy
+* Cookie-Editor
+* Dark Reader
