@@ -1,5 +1,5 @@
 #!/bin/python
-#this script simply takes a big string and splits it into a bunch of smaller ones in the desired format.
+# This script simply takes a big string and splits it into a bunch of smaller ones in the desired format.
 import math
 
 longstring = input("Paste or type a long string: ")
