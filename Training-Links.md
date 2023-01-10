@@ -16,3 +16,6 @@ YAML Lint is also a lifesaver:
 * FoxyProxy
 * Cookie-Editor
 * Dark Reader
+
+## Amazing Cheatsheet for SSH Tunneling
+* [Iximiuz - SSH Tunnels](https://iximiuz.com/ssh-tunnels/ssh-tunnels.png)
