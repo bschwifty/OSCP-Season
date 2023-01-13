@@ -20,7 +20,7 @@ input("Press ENTER key to continue...")
 
 hosts_alive = []
 for host in network.hosts():
-    p = subprocess.run(["ping", "-c", "1", "-w", "1", "-q", str(host)], stdout=subprocess.DEVNULL)  
+    p = subprocess.run(["ping", "-c", "1", "-w", "1", str(host)], stdout=subprocess.DEVNULL)  
     # one ping only
     if p.returncode == 0:
         hosts_alive.append(host)
