@@ -19,3 +19,6 @@ YAML Lint is also a lifesaver:
 
 ## Amazing Cheatsheet for SSH Tunneling
 * [Iximiuz - SSH Tunnels](https://iximiuz.com/ssh-tunnels/ssh-tunnels.png)
+
+## Reverse Shells Made Easy
+* [Revshells.com](https://www.revshells.com)
