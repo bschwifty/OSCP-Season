@@ -12,6 +12,10 @@ Shellcheck is a lifesaver:
 YAML Lint is also a lifesaver:
 * [YAML Lint](https://www.yamllint.com/)
 
+## Python
+* [Linter](https://codebeautify.org/python-formatter-beautifier)
+* [Online IDE - find your mistakes here first lol](https://www.online-python.com/)
+
 ## Firefox Addons
 * FoxyProxy
 * Cookie-Editor
