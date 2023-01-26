@@ -7,3 +7,4 @@ Nifty little scripts I wrote to make other things easier:
 Helpful things from courseware or other contributors:
 * enumerateAD_services.ps1 - Powershell script from the OSCP courseware, helps find services on Windows
 * adduser.bat - Adds a new user to a compromised Windows host for persistence, borrowed from Siddicky (Offsec Student Mentor)
+* portscan.sh - A simple portscanner that uses bash (for situations where you can't use nmap)- just tells you open tcp ports.
