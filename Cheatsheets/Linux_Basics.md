@@ -38,8 +38,10 @@ Get shell in a running container:
 `docker exec -it <container name> bash`
 
 Keep a container awake:
+
 `tail -f anything`
 *run this command in a container, Dockerfile, or docker-compose.yaml*
 
 Kill all docker containers:
+
 `docker kill $(docker ps -q)`
