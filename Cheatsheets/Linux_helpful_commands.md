@@ -28,6 +28,8 @@ Grab all files of a certain type from a server
 
 **Docker**
 
+*Pro tip:* Instead of typing the whole name of a container, you can type the first three characters of its ID
+
 View port mappings of all containers:
 
 `for i in $(docker ps -q); do docker port $i; done`
