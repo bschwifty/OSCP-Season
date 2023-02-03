@@ -32,7 +32,7 @@ View port mappings of all containers:
 
 `for i in $(docker ps -q); do docker port $i; done`
 
-Note: port mappings are generally <host>:<container>, except in output of `docker port`, where is it the other way
+Note: port mappings are generally `<host>:<container>`, except in output of `docker port`, where is it the other way
 
 Get shell in a running container:
 
