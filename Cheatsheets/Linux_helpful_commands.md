@@ -1,5 +1,3 @@
-
-
 **Log your terminal output:**
 
 `script <output_filename>`
