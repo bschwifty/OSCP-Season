@@ -9,4 +9,6 @@ cd | cd
 rm | del 
 whoami | whoami
 sudo -l | whoami /priv
-
+ifconfig | ipconfig
+netstat -antup | netstat /ano (use /anbo if admin)
+\| xclip -selection c | \| clip
