@@ -1,4 +1,5 @@
 *Note: cmd commands generally work in PowerShell, but not the other way*
+*Note: cmd is not case-sensitive
 
 **Bash** | **cmd**
 --- | --- 
@@ -12,3 +13,4 @@ sudo -l | whoami /priv
 ifconfig | ipconfig
 netstat -antup | netstat /ano (use /anbo if admin)
 \| xclip -selection c | \| clip
+echo | echo
