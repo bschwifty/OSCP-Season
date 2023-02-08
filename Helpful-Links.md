@@ -26,3 +26,9 @@ YAML Lint is also a lifesaver:
 
 ## Reverse Shells Made Easy
 * [Revshells.com](https://www.revshells.com)
+
+## Windows and AD:
+* [Tib3rius AD Cheat Sheet](https://github.com/Tib3rius/Active-Directory-Exploitation-Cheat-Sheet)
+* [PayloadsAllTheThings Privesc Guide](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
+* [Tib3rius Priv Checker (Non-powershell)](https://github.com/Tib3rius/windowsprivchecker)
+* [Tib3rius Windows Privesc Guide](https://github.com/Tib3rius/Pentest-Cheatsheets/blob/master/privilege-escalation/windows/windows.rst)
