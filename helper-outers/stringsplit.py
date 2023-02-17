@@ -15,4 +15,4 @@ num_chunks = math.ceil(len(longstring) / chunk_size)
 print("Number of chunks will be " + str(num_chunks))
 print(var_name + ' = ""')
 for i in range(0, len(longstring), chunk_size):
-    print(var_name + ' += "' + longstring[i:i+chunk_size] + '"')
+    print(var_name + ' = ' + var_name + ' + "' + longstring[i:i+chunk_size] + '"')
