@@ -7,6 +7,7 @@ Don't hit your head against the keyboard more than 20 min in a row!
 - Autorecon
   - Read all .txt output before hacking anything.
 - Look through notes for similar things on previous targets
+- UDP port scan (-sUV)
 - Examine ports/services, interact to enumerate more details
 - Get software versions
 
