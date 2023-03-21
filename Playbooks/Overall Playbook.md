@@ -10,6 +10,7 @@ Don't hit your head against the keyboard more than 20 min in a row!
 - UDP port scan (-sUV)
 - Examine ports/services, interact to enumerate more details
 - Get software versions
+  - Run tcpdump or Wireshark while interacting with services, might reveal version
 
 **2. Initial Access**
 - Default creds
