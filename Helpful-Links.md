@@ -3,6 +3,7 @@
 * [Vim Cheat Sheet](https://vim.rtorr.com/ "Vim Cheat Sheet")
 * [Regex Practice](https://regexr.com/ "RegExr")
 * [Sed Practice](https://sed.js.org/ "Sed Live Editor")
+* [Crontab Generator](https://crontab-generator.org/ "Crontab Generator")
 
 ## Why doesn't my script work?
 Shellcheck is a lifesaver:
