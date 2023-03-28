@@ -4,6 +4,7 @@
 * [Regex Practice](https://regexr.com/ "RegExr")
 * [Sed Practice](https://sed.js.org/ "Sed Live Editor")
 * [Crontab Generator](https://crontab-generator.org/ "Crontab Generator")
+* [chmod Cheatsheet](https://quickref.me/chmod "chmod Cheatsheet")
 
 ## Why doesn't my script work?
 Shellcheck is a lifesaver:
