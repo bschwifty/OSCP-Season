@@ -1,0 +1,14 @@
+Add the following into your settings.json for Windows terminal
+  (found here:
+    %LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json)
+  to be able to use alt+j, alt+k, etc to switch panes, just like the tmux vim keybindings.
+
+Note: only copy the lines below, not this whole file, you need the other stuff that is already
+      in settings.json.
+
+    "keybindings": [
+        { "command": { "action": "moveFocus", "direction": "down" }, "keys": "alt+j" },
+        { "command": { "action": "moveFocus", "direction": "left" }, "keys": "alt+h" },
+        { "command": { "action": "moveFocus", "direction": "right" }, "keys": "alt+l" },
+        { "command": { "action": "moveFocus", "direction": "up" }, "keys": "alt+k" },
+    ],
