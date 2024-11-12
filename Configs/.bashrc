@@ -1,3 +1,5 @@
+PS1='\[\e[32m\]\u@\h:\w\$ \[\e[0m\]'
+
 # do not delete / or prompt if deleting more than 3 files at a time #
 alias rm='rm -I --preserve-root'
  
