@@ -1,5 +1,11 @@
 PS1='\[\e[32m\]\u@\h:\w\$ \[\e[0m\]'
 
+command_not_found_handle() {
+    echo "$0: command not found"
+    return 127
+}
+
+
 # do not delete / or prompt if deleting more than 3 files at a time #
 alias rm='rm -I --preserve-root'
  
