@@ -10,3 +10,5 @@ alias ln='ln -i'
 alias chown='chown --preserve-root'
 alias chmod='chmod --preserve-root'
 alias chgrp='chgrp --preserve-root'
+
+alias tmuxx="tmux new-session \; split-window -h \; split-window -v \; select-pane -t 0 \; split-window -v \;"
