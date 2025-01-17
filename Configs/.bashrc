@@ -1,4 +1,4 @@
-PS1='\[\e[32m\]\u@\h:\w\$ \[\e[0m\]'
+PS1='\[\e[32m\]\u@\h:\w\$ \[\e[0m\]' # change the number to 31 if you want a red prompt
 
 command_not_found_handle() {
     echo "$0: command not found"
