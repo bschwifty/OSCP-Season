@@ -34,3 +34,7 @@ YAML Lint is also a lifesaver:
 * [PayloadsAllTheThings Privesc Guide](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
 * [Tib3rius Priv Checker (Non-powershell)](https://github.com/Tib3rius/windowsprivchecker)
 * [Tib3rius Windows Privesc Guide](https://github.com/Tib3rius/Pentest-Cheatsheets/blob/master/privilege-escalation/windows/windows.rst)
+
+## Cracking Passwords/Hashes:
+* [Hashcat](https://hashcat.net/hashcat/)
+* [Crackstation - this one is golden 👌](https://crackstation.net)
