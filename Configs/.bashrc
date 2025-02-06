@@ -22,3 +22,7 @@ alias chgrp='chgrp --preserve-root'
 alias tmuxx="tmux new-session \; split-window -h \; split-window -v \; select-pane -t 0 \; split-window -v \;"
 
 export HISTIGNORE=""
+
+# Run this next one as root for case-insensitive tab autocomplete in the terminal:
+# echo 'set completion-ignore-case On' | sudo tee -a /etc/inputrc
+
