@@ -20,6 +20,7 @@ alias chmod='chmod --preserve-root'
 alias chgrp='chgrp --preserve-root'
 
 alias tmuxx="tmux new-session \; split-window -h \; split-window -v \; select-pane -t 0 \; split-window -v \;"
+alias tma="tmux a -t 0"
 
 export HISTIGNORE=""
 
