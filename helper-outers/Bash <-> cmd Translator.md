@@ -15,6 +15,4 @@ netstat -antup | netstat /ano (use /anbo if admin)
 \| xclip -selection c | \| clip
 echo | echo
 watch \<command\> | while (1) {\<command\>; sleep 2; cls} **(powershell only)**
-grep -Rni | Get-ChildItem -Recurse \| Select-String -Pattern "your_search_term" -CaseSensitive:$false -AllMatches \| ForEach-Object {
-    "{0}:{1} - {2}" -f $_.Path, $_.LineNumber, $_.Line
-} **(powershell)**
+grep -Rni | Get-ChildItem -Recurse \| Select-String -Pattern "your_search_term" -CaseSensitive:$false -AllMatches \| ForEach-Object {"{0}:{1} - {2}" -f $_.Path, $_.LineNumber, $_.Line} **(powershell)**
